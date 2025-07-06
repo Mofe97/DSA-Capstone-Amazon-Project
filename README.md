@@ -16,3 +16,11 @@ To get product with 50% discount,calculate using =IF(Discount Percentage>=50%,"Y
 Potential Revenue was calculate using = Actual Price * Rating Count
 =IF(E2<200,"<200",IF(E2<=500,"200–500",">500"))
 
+I  Analzes my data using Pivot Table Analysis on
+Average Discount % by Product Category, Product Count per Category, Total Number of Reviews per Category, Highest Average Rated Products
+Average Actual Price vs Discounted Price by Category, Products with the Highest Review Counts, Products with Discount ≥ 50%, Total Potential Revenue by Category,
+Number of Unique Products by Price Bucket, Products with Fewer than 1,000 Reviews, Top 5 Products by Rating + Reviews Combined
+
+I further analyzed my data Using Visualization Tools in Excel.
+
+
